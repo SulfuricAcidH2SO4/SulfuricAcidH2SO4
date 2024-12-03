@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently working on a videogame developing Novalheim!</p>
+<p align="left">Currently developing Novalheim!</p>
 
 ###
 
