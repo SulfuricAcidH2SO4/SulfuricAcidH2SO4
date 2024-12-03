@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently working on a videogame developed in Unity!</p>
+<p align="left">Currently working on a videogame developing Novalheim!</p>
 
 ###
 
