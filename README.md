@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">.NET Developer (C#), videogame developer and graphics programmer!👾</p>
+<p align="left">.NET Developer (C#), videogames Developer and Graphics Programmer!👾</p>
 <p align="left">Currently developing Novalheim!</p>
 
 ###
