@@ -2,6 +2,7 @@
 
 ###
 
+<p align="left">.NET Developer (C#), videogame developer and graphics programmer!👾</p>
 <p align="left">Currently developing Novalheim!</p>
 
 ###
